@@ -1,0 +1,16 @@
+# Sensitive configuration
+config.json
+
+# State files
+state/
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
